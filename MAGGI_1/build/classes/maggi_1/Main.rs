@@ -1,0 +1,16 @@
+maggi_1.maggiTRAY$8
+maggi_1.maggiTRAY$10
+maggi_1.maggiTRAY$9
+maggi_1.maggiTRAY$ICONNAME
+maggi_1.Main
+maggi_1.maggiTRAY$1
+maggi_1.maggiTRAY$2
+maggi_1.maggiTRAY$3
+maggi_1.maggiTRAY$4
+maggi_1.maggiTRAY$5
+maggi_1.maggiTRAY$6
+maggi_1.maggiTRAY$7
+maggi_1.maggiTRAY
+maggi_1.maggiTRAY$11
+maggi_1.maggiTRAY$12
+maggi_1.maggiTRAY$13
